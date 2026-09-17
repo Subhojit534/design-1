@@ -1,0 +1,36 @@
+﻿# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production build output
+dist/
+dist-ssr/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor and OS directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+
+# Large archives and raw 3D Max source folders (web assets are in public/)
+*.rar
+95ti7ffo61hc-1/
+e8dvd1ke4mps-001/
+ivkwwche5p1c-001/
